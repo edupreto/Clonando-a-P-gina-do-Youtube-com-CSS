@@ -1,0 +1,16 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1.5rem;
+}
+
+.container .headerLeft img {
+    margin-right: 1.6rem;
+}
+
+.container .headerRight img {
+    margin-left: 1.6rem;
+}
